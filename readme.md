@@ -1,1 +1,1 @@
-This repository collected teaching materials prepared in conjunction with econometrics short courses I have taught.
+This repository archives teaching materials prepared in conjunction with econometrics short courses I have taught.
