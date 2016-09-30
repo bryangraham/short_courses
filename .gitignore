@@ -25,6 +25,6 @@
 *.tex
 *.lyx
 *lyx-format*.lyx
-#*.*#
+*.*#
 *.bib
 *.*~
