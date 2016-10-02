@@ -13,6 +13,7 @@
 
 # Exclude data created by Notebooks/Programs in Repo
 **/Data/Created/
+
 # Exclude any files in "Not For Repo" subdirectories
 **/NotForRepo/
 
