@@ -10,6 +10,7 @@
 
 # Ignore graphics files created by Notebooks/Programs in Repo
 *.png
+*.eps
 
 # Exclude data created by Notebooks/Programs in Repo
 **/Data/Created/
