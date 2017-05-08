@@ -12,6 +12,9 @@
 *.png
 *.eps
 
+# Ignore Open Office Spreadsheet files (general used for scratch calculations)
+*.ods
+
 # Exclude data created by Notebooks/Programs in Repo
 **/Data/Created/
 
