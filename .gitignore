@@ -11,6 +11,7 @@
 # Ignore graphics files created by Notebooks/Programs in Repo
 *.png
 *.eps
+*.jpg
 
 # Ignore Open Office Spreadsheet files (general used for scratch calculations)
 *.ods
