@@ -2,18 +2,8 @@
 *.pyc
 
 # Short Course Materials to Exclude (for now)
-/CEMFI_Summer_School/
-/Zamorano/
-/Annweiler_Prague/
-/Boston_University/
-/CEMFI_Fall2022/
-/CORE_Winter_School/
-/CUHK_Shenzhen/
-/GCEP/
-/Haindorf/
-/Jinan_Econometrics_Camp/
-/Oslo/
-/SMU_CUHK/
+/Archived_Courses/
+/St_Gallen/Past_Years/
 
 # Ignore Jupyter/IPython Notebook Checkpoints
 **/.ipynb_checkpoints/
