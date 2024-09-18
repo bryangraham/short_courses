@@ -3,7 +3,6 @@
 
 # Short Course Materials to Exclude (for now)
 /Archived_Courses/
-/St_Gallen/Past_Years/
 
 # Ignore Jupyter/IPython Notebook Checkpoints
 **/.ipynb_checkpoints/
